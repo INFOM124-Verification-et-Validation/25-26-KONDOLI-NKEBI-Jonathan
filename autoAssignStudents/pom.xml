@@ -93,6 +93,13 @@
                     </dependency>
                 </dependencies>
             </plugin>
+
+            <plugin>
+                <groupId>com.diffblue</groupId>
+                <artifactId>cover-maven-plugin</artifactId>
+                <version>2025.10.02-2025.2</version>
+            </plugin>
+
         </plugins>
 
     </build>

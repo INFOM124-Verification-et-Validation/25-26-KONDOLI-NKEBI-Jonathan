@@ -17,4 +17,9 @@ class AutoAssignerTest {
     private ZonedDateTime date(int year, int month, int day, int hour, int minute) {
         return ZonedDateTime.of(year, month, day, hour, minute, 0, 0, ZoneId.systemDefault());
     }
+
+    @Test
+    void testAutoAssigner() {
+
+    }
 }
