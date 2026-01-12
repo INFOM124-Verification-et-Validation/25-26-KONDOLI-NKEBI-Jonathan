@@ -4,10 +4,8 @@ import nl.tudelft.jpacman.board.BoardFactory;
 import nl.tudelft.jpacman.board.Direction;
 import nl.tudelft.jpacman.level.*;
 import nl.tudelft.jpacman.sprite.PacManSprites;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.awt.image.DirectColorModel;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
